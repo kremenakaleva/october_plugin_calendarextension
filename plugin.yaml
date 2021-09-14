@@ -1,0 +1,6 @@
+plugin:
+    name: 'pensoft.calendarextension::lang.plugin.name'
+    description: 'pensoft.calendarextension::lang.plugin.description'
+    author: Pensoft
+    icon: oc-icon-calendar-o
+    homepage: ''
