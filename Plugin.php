@@ -53,12 +53,7 @@ class Plugin extends PluginBase
 							]
 						]
 					],
-					'show_on_timeline' => [
-						'label' => 'Show on timeline',
-						'span' => 'auto',
-						'type' => 'checkbox',
-						'default' => true,
-					],
+
 				]);
 
 			});

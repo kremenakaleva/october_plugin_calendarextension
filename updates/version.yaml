@@ -4,5 +4,6 @@
     - 'Update table christophheich_calendar_entries'
     - update_entries.php
 1.0.3:
-    - 'Update table christophheich_calendar_entries; add show on timeline checkbox'
-    - update_entries2.php
+      - 'Update table christophheich_calendar_entries; add show on timeline checkbox'
+1.0.4:
+      - 'Add component property and checks; removed default event color style'
